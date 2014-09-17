@@ -1,0 +1,4 @@
+vimConfig
+=========
+
+my ~.vimrc file
